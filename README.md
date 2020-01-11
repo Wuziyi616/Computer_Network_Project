@@ -42,7 +42,7 @@ python main.py
 
 ### 登录
 
-<center><img src="D:\wzy\University\大三上\计算机网络与应用\Assignments\大作业\report\login.png" alt="login" style="zoom:50%;" /></center>
+<center><img src="https://github.com/Wuziyi616/Computer_Network_Project/blob/master/figures/login.png" alt="login" style="zoom:50%;" /></center>
 输入学号、密码（net2019）即可登录。同时在登录界面可以选择是否使用自制服务器。若勾选该项则需事先在本机上运行服务器，在命令行键入：
 
 ```shell
@@ -53,14 +53,14 @@ python my_central_server.py
 
 ### 主界面
 
-<center><img src="D:\wzy\University\大三上\计算机网络与应用\Assignments\大作业\report\UI.png" alt="UI" style="zoom:100%;" /></center>
+<center><img src="https://github.com/Wuziyi616/Computer_Network_Project/blob/master/figures/UI.png" alt="UI" style="zoom:100%;" /></center>
 主要功能标注如图，个人认为自己的 label 名称还是很明确的，几个需要特别指出的操作：
 
 - 添加好友需输入学号再点击 $+$，删除好友只需在列表中选中然后点击 $-$ 即可
 - 点击好友列表或群聊列表中项即可切换聊天对象
 - 发起群聊时会出现一个群友选择界面，点击好友再点 OK 即可
 
-<center><img src="D:\wzy\University\大三上\计算机网络与应用\Assignments\大作业\report\groupchat.png" alt="groupchat" style="zoom:55%;" /></center>
+<center><img src="https://github.com/Wuziyi616/Computer_Network_Project/blob/master/figures/login.png" alt="groupchat" style="zoom:55%;" /></center>
 - 发送语音和语音输入需长按说话
 - 发送文件和图片需在发送框中输入其在本机上的相对路径，同时勾选相应类型
 - 若要结束视频通话，只需再点击一次视频聊天按钮即可
